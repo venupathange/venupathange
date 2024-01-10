@@ -2,11 +2,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venupathange&label=Profile%20views&color=0e75b6&style=flat" alt="venupathange" /> </p>
-
+🎓 Information Science Engineering student at MIT Mysore
+🌟 Frontend Developer exploring HTML, CSS, JavaScript & React
+🚀 Eager learner, constantly diving into new technologies
 - 🌱 I’m currently learning **java script and aiml**
-
 - 📫 How to reach me **venugopalpv@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mRH43XgcU8wODcNpE7rz4UrHPjXk0OCN/view?usp=sharing](https://drive.google.com/file/d/1mRH43XgcU8wODcNpE7rz4UrHPjXk0OCN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
