@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **java script and aiml**
   
-- 📫 How to reach me **venugopalpv@gmail.com**
+- 📫 How to reach me **venugopalpv25@gmail.com**
   
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mRH43XgcU8wODcNpE7rz4UrHPjXk0OCN/view?usp=sharing](https://drive.google.com/file/d/1mRH43XgcU8wODcNpE7rz4UrHPjXk0OCN/view?usp=sharing)
 
